@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bicycle</folder>
+	<filename>bic0.jpeg</filename>
+	<path>C:\Users\priya\PycharmProjects\pythonProject\Object_Recog\workspace\images\image_database\bicycle\bic0.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>277</width>
+		<height>182</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>18</ymin>
+			<xmax>267</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

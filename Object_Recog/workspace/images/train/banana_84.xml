@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fruits</folder>
+	<filename>banana_84.jpg</filename>
+	<path>C:\Users\priya\PycharmProjects\pythonProject\Object_Recog\workspace\images\image_database\Fruits\banana_84.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>114</ymin>
+			<xmax>540</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

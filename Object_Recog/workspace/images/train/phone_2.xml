@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smartphone</folder>
+	<filename>phone_2.jpeg</filename>
+	<path>C:\Users\priya\PycharmProjects\pythonProject\Object_Recog\workspace\images\image_database\smartphone\phone_2.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SmartPhone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>22</ymin>
+			<xmax>195</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>

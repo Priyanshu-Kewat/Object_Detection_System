@@ -1,0 +1,26 @@
+<annotation>
+	<folder>person</folder>
+	<filename>fec.jpeg</filename>
+	<path>C:\Users\priya\PycharmProjects\pythonProject\Object_Recog\workspace\images\image_database\person\fec.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>195</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Human_Female</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>3</ymin>
+			<xmax>160</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

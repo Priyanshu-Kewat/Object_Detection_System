@@ -1,0 +1,26 @@
+<annotation>
+	<folder>book</folder>
+	<filename>book.jpeg</filename>
+	<path>C:\Users\priya\PycharmProjects\pythonProject\Object_Recog\workspace\images\image_database\book\book.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>284</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>8</ymin>
+			<xmax>253</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

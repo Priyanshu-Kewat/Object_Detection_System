@@ -1,0 +1,76 @@
+item { 
+	name:'Human_Female'
+	id:1
+}
+item { 
+	name:'Human_Male'
+	id:2
+}
+item { 
+	name:'Bicycle'
+	id:3
+}
+item { 
+	name:'car'
+	id:4
+}
+item { 
+	name:'SmartPhone'
+	id:5
+}
+item { 
+	name:'dog'
+	id:6
+}
+item { 
+	name:'Laptop'
+	id:7
+}
+item { 
+	name:'Bench'
+	id:8
+}
+item { 
+	name:'cat'
+	id:9
+}
+item { 
+	name:'apple'
+	id:10
+}
+item { 
+	name:'banana'
+	id:11
+}
+item { 
+	name:'orange'
+	id:12
+}
+item { 
+	name:'window'
+	id:13
+}
+item { 
+	name:'pen'
+	id:14
+}
+item { 
+	name:'Bottle'
+	id:15
+}
+item { 
+	name:'CeilingFan'
+	id:16
+}
+item { 
+	name:'TableFan'
+	id:17
+}
+item { 
+	name:'Book'
+	id:18
+}
+item { 
+	name:'MotorCycle'
+	id:19
+}

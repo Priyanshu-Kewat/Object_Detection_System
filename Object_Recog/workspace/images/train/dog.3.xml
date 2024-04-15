@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dog</folder>
+	<filename>dog.3.jpg</filename>
+	<path>C:\Users\priya\PycharmProjects\pythonProject\Object_Recog\workspace\images\image_database\dog\dog.3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>499</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>24</ymin>
+			<xmax>496</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

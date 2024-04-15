@@ -1,0 +1,26 @@
+<annotation>
+	<folder>person</folder>
+	<filename>humb.jpeg</filename>
+	<path>C:\Users\priya\PycharmProjects\pythonProject\Object_Recog\workspace\images\image_database\person\humb.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Human_Male</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>3</ymin>
+			<xmax>184</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

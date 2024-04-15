@@ -1,0 +1,26 @@
+<annotation>
+	<folder>table_fan</folder>
+	<filename>tfan_3.jpeg</filename>
+	<path>C:\Users\priya\PycharmProjects\pythonProject\Object_Recog\workspace\images\image_database\table_fan\tfan_3.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TableFan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>4</ymin>
+			<xmax>149</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

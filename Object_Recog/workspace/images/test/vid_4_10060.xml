@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car</folder>
+	<filename>vid_4_10060.jpg</filename>
+	<path>C:\Users\priya\PycharmProjects\pythonProject\Object_Recog\workspace\images\image_database\car\vid_4_10060.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>676</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>197</ymin>
+			<xmax>124</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

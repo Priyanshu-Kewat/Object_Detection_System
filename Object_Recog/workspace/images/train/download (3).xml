@@ -1,0 +1,26 @@
+<annotation>
+	<folder>laptop</folder>
+	<filename>download (3).jpeg</filename>
+	<path>C:\Users\priya\PycharmProjects\pythonProject\Object_Recog\workspace\images\image_database\laptop\download (3).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Laptop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>28</ymin>
+			<xmax>215</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fruits</folder>
+	<filename>orange_86.jpg</filename>
+	<path>C:\Users\priya\PycharmProjects\pythonProject\Object_Recog\workspace\images\image_database\Fruits\orange_86.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>88</ymin>
+			<xmax>354</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>
